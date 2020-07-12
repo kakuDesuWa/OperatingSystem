@@ -11,7 +11,7 @@ To figure out why this code can work? To figure out why that code run efficientl
 
 Topics
 
-- [How application program access memory?](tutorial/topic/how_application_program_access_memory.md)
+- [How application program access memory?](topic/how_application_program_access_memory.md)
 
 > Stay hungray, Stay foolish.
 > 见贤思齐焉, 见不贤内自省也.
